@@ -11,5 +11,11 @@ public class App
         Loginpage l=new Loginpage();
         l.show();
         System.out.println("just to check i added to this");
+        
+    }
+    //this is stash because we need not pushed it in repository
+    public void show()
+    {
+    	System.out.println("this is other method");
     }
 }
