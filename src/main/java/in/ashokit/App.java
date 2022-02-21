@@ -10,5 +10,6 @@ public class App
     {
         Loginpage l=new Loginpage();
         l.show();
+        System.out.println("just to check i added to this");
     }
 }
